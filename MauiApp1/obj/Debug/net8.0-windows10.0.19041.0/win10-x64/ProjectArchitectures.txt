@@ -1,0 +1,1 @@
+C:\Canapi_Joshua_Intern_Projects\MAUI FRONT END JASMINE\Stock-Counter\MauiApp1\MauiApp1.csproj;x64

@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0-windows10.0.19041.0
+build_property.TargetPlatformMinVersion = 10.0.17763.0
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 9A19103F-16F7-4668-BE54-9A1E7A4F7556
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MauiApp1
+build_property.ProjectDir = C:\Canapi_Joshua_Intern_Projects\MAUI FRONT END JASMINE\Stock-Counter\MauiApp1\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Pages/AddItemPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.AddItemPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\AddItemPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\AddItemPage.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Pages/CountSheetsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.CountSheetsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\CountSheetsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\CountSheetsPage.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Pages/HomePage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.HomePage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\HomePage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\HomePage.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Pages/ModalPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.ModalPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\ModalPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\ModalPage.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Pages/OnboardingPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.OnboardingPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\OnboardingPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\OnboardingPage.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Pages/SettingsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.SettingsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SettingsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SettingsPage.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Pages/SignInPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Pages.SignInPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Pages\SignInPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Pages\SignInPage.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Canapi_Joshua_Intern_Projects/MAUI FRONT END JASMINE/Stock-Counter/MauiApp1/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = MauiApp1.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
